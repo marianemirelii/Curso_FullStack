@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Atividades do curso dev. Full Stack da +praTi &amp; Codifica",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
